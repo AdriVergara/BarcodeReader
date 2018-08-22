@@ -1,0 +1,1 @@
+C:\Users\adrian.vergara\source\repos\BarcodeReader\BarcodeReader\BarcodeReader.UWP\BarcodeReader.UWP.csproj;x86

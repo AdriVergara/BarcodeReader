@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage
+             xmlns:local="clr-namespace:BarcodeReader.Views" 
+             xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BarcodeReader.Views.BarcodeReaderView">
+
+    <StackLayout Margin="10">
+
+        <Button Text="Open Camera to Scan" HorizontalOptions="Center" Command="{Binding ScanBarcode}"/>
+
+        <StackLayout Margin="10,0,10,0" HeightRequest="50" Orientation="Horizontal">
+            <Label Text="Barcode: " HorizontalOptions="Start" FontSize="Large" VerticalOptions="Center"/>
+            <Label Text="{Binding BarcodeReaded}" TextColor="OrangeRed" FontSize="Large" VerticalOptions="Center"/>
+        </StackLayout>
+    </StackLayout>
+    
+</ContentPage>
