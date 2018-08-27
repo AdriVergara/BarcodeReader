@@ -1,0 +1,12 @@
+C:\Users\adrian.vergara\source\repos\BarcodeReader\BarcodeReader\BarcodeReader\bin\Debug\netstandard2.0\BarcodeReader.deps.json
+C:\Users\adrian.vergara\source\repos\BarcodeReader\BarcodeReader\BarcodeReader\bin\Debug\netstandard2.0\BarcodeReader.dll
+C:\Users\adrian.vergara\source\repos\BarcodeReader\BarcodeReader\BarcodeReader\bin\Debug\netstandard2.0\BarcodeReader.pdb
+C:\Users\adrian.vergara\source\repos\BarcodeReader\BarcodeReader\BarcodeReader\obj\Debug\netstandard2.0\BarcodeReader.csprojAssemblyReference.cache
+C:\Users\adrian.vergara\source\repos\BarcodeReader\BarcodeReader\BarcodeReader\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\adrian.vergara\source\repos\BarcodeReader\BarcodeReader\BarcodeReader\obj\Debug\netstandard2.0\Views\BarcodeReaderView.xaml.g.cs
+C:\Users\adrian.vergara\source\repos\BarcodeReader\BarcodeReader\BarcodeReader\obj\Debug\netstandard2.0\BarcodeReader.csproj.CoreCompileInputs.cache
+C:\Users\adrian.vergara\source\repos\BarcodeReader\BarcodeReader\BarcodeReader\obj\Debug\netstandard2.0\BarcodeReader.AssemblyInfoInputs.cache
+C:\Users\adrian.vergara\source\repos\BarcodeReader\BarcodeReader\BarcodeReader\obj\Debug\netstandard2.0\BarcodeReader.AssemblyInfo.cs
+C:\Users\adrian.vergara\source\repos\BarcodeReader\BarcodeReader\BarcodeReader\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\adrian.vergara\source\repos\BarcodeReader\BarcodeReader\BarcodeReader\obj\Debug\netstandard2.0\BarcodeReader.dll
+C:\Users\adrian.vergara\source\repos\BarcodeReader\BarcodeReader\BarcodeReader\obj\Debug\netstandard2.0\BarcodeReader.pdb
